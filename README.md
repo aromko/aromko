@@ -1,7 +1,5 @@
 # Hey! 👋🏼  I'm Marcel 
 
-- 👀 I’m interested in web technolgoies.
-- 💞️ I’m looking to collaborate on everything I'm interested in. Just ask me ;-)
 - 📫 How to reach me: aromkoapps@gmail.com
 
 <a href="https://github.com/aromko/github-readme-stats">
